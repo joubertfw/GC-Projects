@@ -107,7 +107,7 @@ void medianPoint(float x0, float y0, float x1, float y1)
 
 void draw()
 {
-    digitalDiff(-20.0, -40.0, 10.0, 10.0);
+    digitalDiff(-30.0, -40.0, 10.0, 10.0);
     medianPoint(-10.0, -40.0, 20.0, 10.0);   
 }
 
